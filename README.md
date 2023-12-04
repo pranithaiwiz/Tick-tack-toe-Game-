@@ -9,12 +9,14 @@ Responsive Design: Compatible with various screen sizes and devices.
 Win Detection: Automatically detects wins, draws, and highlights the winning combination.
 Reset Functionality: Reset the game board to start a new match.
 <br>
+<br>
 How to Play
 Open the Website: Open the index.html file in your web browser.
 Game Setup: Enter player names or identifiers if prompted.
 Gameplay: Players take turns to place their marks (X or O) on the grid.
 Winning: The game automatically detects winning combinations.
 Restart: Click the "Restart" or "New Game" button to reset the board and start over.
+<br>
 <br>
 File Structure
 index.html: Main HTML file containing the game layout and structure.
@@ -26,9 +28,11 @@ CSS: Styling and visual elements of the game.
 JavaScript: Game logic and user interactions.
 Contributions
 Contributions and improvements are welcome! If you find any issues or want to enhance the game, feel free to fork this repository, make your changes, and submit a pull request.
+<be>
 <br>
 Credits
 This Tic Tac Toe game was created by Pranith kumar. It's inspired by the classic game and built for educational purposes.
+<br>
 <br>
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
